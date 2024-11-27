@@ -44,9 +44,6 @@ Thumbs.db
 *.userosscache
 *.sln.docstates
 
-# Code coverage folder using ReportGenerator
-mySewnet.Quilting.Tests/coveragereport/**
-
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
